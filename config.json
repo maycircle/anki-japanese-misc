@@ -1,0 +1,6 @@
+{
+    "openingPitchClassname": "p1",
+    "continuousPitchClassname": "p2",
+    "closingPitchClassname": "p3",
+    "useSpansOverTags": false
+}

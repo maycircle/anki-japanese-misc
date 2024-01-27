@@ -1,0 +1,3 @@
+[submodule "svgelements"]
+	path = svgelements
+	url = https://github.com/meerk40t/svgelements

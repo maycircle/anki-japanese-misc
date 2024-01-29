@@ -8,10 +8,10 @@ from anki.notes import Note
 from aqt import gui_hooks
 from aqt.editor import Editor
 
-from .editor_buttons import addButton
-from .globals import ADDON_ROOT_PATH, config
-from .selection import Selection
-from .utils import enhanceAllAnkiEditables, selection
+from ..globals import ADDON_ROOT_PATH, config
+from ..ui.editor_buttons import addButton
+from ..ui.selection import Selection
+from ..ui.utils import enhanceAllAnkiEditables, selection
 from .webview import _getPitchAccentStylesheet
 
 # weak reference to current instance of `aqt.editor.Editor` for hooks that

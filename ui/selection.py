@@ -1,4 +1,4 @@
-from abc import ABC
+from abc import ABC, abstractmethod
 import json
 import re
 from typing import Optional
@@ -11,6 +11,7 @@ class Selection(ABC):
     text: Optional[str]
     selectedText: Optional[str]
 
+    @abstractmethod
     def modify(self, html: str, truncate: bool = False):
         pass
 

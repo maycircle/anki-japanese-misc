@@ -13,7 +13,7 @@ to notation from [Kanshudo](https://www.kanshudo.com),
 「新明解日本語アクセント辞典 第２版」 [(Amazon link)](https://www.amazon.co.jp/NHK日本語発音アクセント新辞典/dp/4140113456/),
 in a way like this:
 
-![using kana じかん、てんき、ひとり、あいて or with furigana 時間、天気、一人、相手（相手）.](pitch_accents_preview.png)
+![using kana じかん、てんき、ひとり、あいて or with furigana 時間、天気、一人、相手（相手）.](extra/pitch_accents_preview.png)
 <!-- - using kana じ<span class="p1">かん</span>、<span class="p3">て</span>んき、ひ<span class="p2">と</span>り、あ<span class="p3">いて</span> or with furigana <ruby>時 <rp>(</rp><rt>じ</rt><rp>)</rp> 間<rp>(</rp><rt><span class="p1">かん</span></rt><rp>)</rp></ruby>、<ruby>天 <rp>(</rp><rt><span class="p3">て</span>ん</rt><rp>)</rp> 気<rp>(</rp><rt>き</rt><rp>)</rp></ruby>、<ruby>一人 <rp>(</rp><rt>ひ<span class="p2">と</span>り</rt><rp>)</rp></ruby>、<ruby>相 <rp>(</rp><rt>あ<span class="p2">い</span></rt><rp>)</rp> 手<rp>(</rp><rt><span class="p3">て</span></rt><rp>)</rp></ruby>（<ruby>相手 <rp>(</rp><rt>あ<span class="p3">いて</span></rt><rp>)</rp></ruby>）.
 -->
 | Config property | Default value | Meaning |

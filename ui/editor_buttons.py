@@ -11,7 +11,7 @@ from aqt.editor import Editor
 from aqt.qt import *
 from aqt.utils import shortcut
 
-from .svgelements.svgelements import svgelements
+from ..extra.svgelements.svgelements import svgelements
 
 # buttons that will be disabled when user focuses on PlainTextInput
 _addonButtonsPlainDisableIds = []

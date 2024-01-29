@@ -6,7 +6,7 @@ from aqt.clayout import CardLayout
 from aqt.reviewer import Reviewer
 from aqt.webview import WebContent
 
-from .globals import config
+from ..globals import config
 
 
 def _getPitchAccentStylesheet() -> str:

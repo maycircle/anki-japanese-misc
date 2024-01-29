@@ -1,5 +1,5 @@
-from . import editor
-from . import webview
+from .hooks import editor
+from .hooks import webview
 
 
 def main():
